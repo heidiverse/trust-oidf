@@ -1,5 +1,8 @@
 [
   {
     "sub" : "https://findy.trustregistry.eu"
+  },
+  {
+    "sub" : "https://pro.heidiverse.com/api/federation/test"
   }
 ]
