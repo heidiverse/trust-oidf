@@ -2,19 +2,16 @@
     "issuerDomains": [
         "funke.animo.id",
         "itb.ilabs.ai",
-        // From https://pensiondemo.findy.fi/
         "agent.paradym.id",
         "core-agent.hovi.id",
         "procivis.staging.findy.fi"
     ],
     "didWebDomains": [
         "itb.ilabs.ai",
-        // From https://pensiondemo.findy.fi/
         "metadata.paradym.id",
         "procivis.staging.findy.fi"
     ],
     "x509Certificates": [
-        // core-agent.hovi.id
         "MIIBfzCCASagAwIBAgIRAJxMiKpIOKIQfWIXjW2MRXEwCgYIKoZIzj0EAwIwLzELMAkGA1UEBhMCRkkxDTALBgNVBAoTBEhvdmkxETAPBgNVBAcTCEhlbHNpbmtpMCAXDTAwMDEwMTAwMDAwMFoYDzIwNTAwMTAxMDAwMDAwWjAvMQswCQYDVQQGEwJGSTENMAsGA1UEChMESG92aTERMA8GA1UEBxMISGVsc2lua2kwWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAARszBw2z2dGwjSvWrfEYupzWuyD7bI7RvVTJ3DYzYvNC9EAFKvWZ01W2EHee06t/EqO/2igP2Y8QXCqAsjUbqoloyEwHzAdBgNVHREEFjAUghJjb3JlLWFnZW50LmhvdmkuaWQwCgYIKoZIzj0EAwIDRwAwRAIgAWhK2s/DU89NH7sUxuJawBICDhW6uNDWkOd31iS+IRsCICTvYJQ2B7hTHDLu0lI2Q9E2zcZqLJtlek/tinlb07uK"
     ]
 }
